@@ -1,0 +1,18 @@
+.loading {
+    text-align: center;
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+}
+
+.loading img {
+    width: 10%
+}
+
+@media screen and (max-width: 600px) {
+    .loading img {
+        width: 20%;
+    }
+}

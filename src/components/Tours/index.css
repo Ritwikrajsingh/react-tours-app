@@ -1,0 +1,9 @@
+.nothing {
+    height: 30vh;
+    display: flex;
+    text-align: center;
+    font-size: x-large;
+    align-items: center;
+    justify-content: center;
+    color: hsl(210, 31%, 80%);
+}
